@@ -1,4 +1,4 @@
-package dev.codenmore.gametutorial;
+package dev.codenmore.tilegame;
 
 public class Launcher {
 
